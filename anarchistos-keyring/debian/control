@@ -8,7 +8,6 @@ Homepage: https://www.anarchistos.tk/
 
 Package: anarchistos-keyring
 Architecture: all
-Maintainer: AreYouLoco? <areyouloco@paranoici.org>
 Depends: gpgv
 Recommends: gnupg
 Multi-Arch: foreign
