@@ -7,14 +7,10 @@ Standards-Version: 3.9.5
 Homepage: https://www.anarchistos.tk/
 
 Package: anarchistos-keyring
-Version: 2018.6.12-3
 Architecture: all
 Maintainer: AreYouLoco? <areyouloco@paranoici.org>
-Installed-Size: 43
 Depends: gpgv
 Recommends: gnupg
-Section: misc
-Priority: extra
 Multi-Arch: foreign
 Homepage: https://www.anarchistos.tk
 Description: AnarchistOS GnuPG archive key
