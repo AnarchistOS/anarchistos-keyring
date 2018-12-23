@@ -10,7 +10,5 @@ Package: anarchistos-keyring
 Architecture: all
 Depends: gpgv
 Recommends: gnupg
-Multi-Arch: foreign
-Homepage: https://www.anarchistos.tk
 Description: AnarchistOS GnuPG archive key
  Provides the archive key used on repo.anarchistos.tk
