@@ -3,7 +3,9 @@ Section: main
 Priority: extra
 Maintainer: AreYouLoco? <areyouloco@paranoici.org>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.5
+Standards-Version: 4.0.0
+Vcs-Browser: https://github.com/anarchistos/anarchistos-keyring
+Vcs-Git: git://github.com/anarchistos/anarchistos-keyring.git
 Homepage: https://www.anarchistos.tk/
 
 Package: anarchistos-keyring
